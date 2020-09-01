@@ -1,0 +1,9 @@
+[package]
+name = "slice_view"
+version = "0.1.0"
+authors = ["Todd Stellanova <tstellanova@users.noreply.github.com>"]
+edition = "2018"
+description = "2D views of slice data for no_std"
+repository ="https://github.com/tstellanova/slice_view"
+
+[dependencies]
